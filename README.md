@@ -35,13 +35,6 @@
 ## Live Demo
 🌐 [https://saptabhumi.vercel.app](https://saptabhumi.vercel.app)
 
-## Screenshots
-> _Add screenshots or GIFs here to showcase the UI and features._
-
-- ![Homepage](public/bg.jpg)
-- ![Products](public/gallary1.png)
-- ![Workshops](public/workshop1.png)
-
 ## Features
 ### 🏺 Products Marketplace
 - Curated collection of antique and handcrafted artifacts (pottery, jewelry, textiles, art, etc.)
